@@ -1,2 +1,2 @@
 Array.prototype.x = 10;
-Object.prototype.y = 30;
+Object.prototype.y = 40;
